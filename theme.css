@@ -204,7 +204,7 @@ body .excalidraw {
 	--tx1: hsl(
 		var(--base-h),
 		calc(var(--base-s) - 10%),
-		calc(var(--base-l) + 67%)
+		calc(var(--base-l) + 75%)
 	);
 	--tx2: hsl(
 		var(--base-h),
